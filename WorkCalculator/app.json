@@ -1,0 +1,16 @@
+{
+   "expo": {
+    "name": "My Work Calculator",
+    "icon": "./app-icon.png",
+    "version": "1.0.0",
+    "sdkVersion": "27.0.0",
+    "splash": {
+      "image": "./jingjing.png",
+      "resizeMode": "cover"
+	},
+
+    "ios": {
+      "bundleIdentifier": "com.myapp.cal"
+    }
+    }
+   }
